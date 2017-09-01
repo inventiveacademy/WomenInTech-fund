@@ -6,7 +6,7 @@
 title: Hexo
 subtitle:
 description:
-author: John Doe
+author: Trinity Siemer
 language:
 timezone:
 
@@ -16,7 +16,6 @@ url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-
 
 # Directory
 source_dir: source

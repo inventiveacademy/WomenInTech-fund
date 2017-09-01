@@ -1,13 +1,9 @@
----
-title: Blog
-date: 2017-08-31 19:41:59
----
-<!DOCTYPE html>
 <html>
 <head>
-    <title>Blog</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    <p>Hello</p>
+<h2>Women in Tech - Blog</h2>
+    
 </body>
 </html>
