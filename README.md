@@ -9,7 +9,7 @@
 4. Then you can run the hexo server by running `hexo server`
 5. Browse to http://localhost:4000 to see your new site!
 
-If you want to add a page, or post, or any other template file you can do that using the hexo CLI also.
+If you want to add a page, or post, or any other template file you can do that using the hexo CLI also.dfas
 
 `hexo new post "my blog post"`
 `hexo new page "about us"`
