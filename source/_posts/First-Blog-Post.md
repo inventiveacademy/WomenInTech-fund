@@ -1,11 +1,11 @@
 ---
-title: Sample Blog Post
-date: 2017-08-30 18:10:46
-tags:
+title: Blog post 1
+date: 2017-08-30 18:10:54
+tags: First
 ---
 <html>
 <head>
-    <title>Sample Blog Post</title>
+    <title>Trinity's Blog Post</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
