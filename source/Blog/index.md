@@ -9,8 +9,7 @@ date: 2017-08-30 18:10:54
 <body>
     <div class="image">
     <img src="first-women-in-tech.jpg">
-        <p>We need more women in tech. The world is heading towards
-        T</p>
+        <p>In 1984 the amount of women in tech was 37% but when we started selling games to boys then the amount of women in tech became 17%</p>
     </div>
 </body>
 </html>
