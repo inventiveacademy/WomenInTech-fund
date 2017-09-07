@@ -9,6 +9,7 @@ date: 2017-08-30 18:10:54
 <body>
     <div class="image">
         <img src="first-women-in-tech.jpg">
+        <p>All the women in the programming world makes up about 3%</p>
     </div>
 </body>
 </html>

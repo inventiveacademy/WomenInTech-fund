@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
-  
+  <subtitle>Made by Trinity Siemer</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -61,13 +61,13 @@
     <link href="http://yoursite.com/2017/08/30/First-Blog-Post/"/>
     <id>http://yoursite.com/2017/08/30/First-Blog-Post/</id>
     <published>2017-08-30T23:10:54.000Z</published>
-    <updated>2017-09-03T18:21:07.000Z</updated>
+    <updated>2017-09-06T23:38:16.000Z</updated>
     
-    <content type="html"><![CDATA[<html><br><head><br>    <title>Trinity’s Blog Post</title><br>    <link rel="stylesheet" type="text/css" href="styles.css"><br></head><br><body><br>    <div class="image"><br>        <img src="first-women-in-tech.jpg"><br>    </div><br>    <p></p><br></body><br></html>]]></content>
+    <content type="html"><![CDATA[<html><br><head><br>    <link rel="stylesheet" type="text/css" href="styles.css"><br></head><br><body><br>    <div class="image"><br>        <img src="first-women-in-tech.jpg"><br>    </div><br>    <p></p><br></body><br></html>]]></content>
     
     <summary type="html">
     
-      &lt;html&gt;&lt;br&gt;&lt;head&gt;&lt;br&gt;    &lt;title&gt;Trinity’s Blog Post&lt;/title&gt;&lt;br&gt;    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;styles.css&quot;&gt;&lt;br&gt;&lt;/head&gt;&lt;br&gt;&lt;b
+      &lt;html&gt;&lt;br&gt;&lt;head&gt;&lt;br&gt;    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;styles.css&quot;&gt;&lt;br&gt;&lt;/head&gt;&lt;br&gt;&lt;body&gt;&lt;br&gt;    &lt;div class=&quot;image&quot;&gt;&lt;br&gt;       
     
     </summary>
     

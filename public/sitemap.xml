@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/About-Us/index.html</loc>
+    
+    <lastmod>2017-09-06T23:39:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/30/First-Blog-Post/</loc>
+    
+    <lastmod>2017-09-06T23:38:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/Blog/index.html</loc>
+    
+    <lastmod>2017-09-06T23:26:44.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/08/30/ShalaysBlog/</loc>
     
     <lastmod>2017-09-04T14:56:01.000Z</lastmod>
@@ -12,27 +33,6 @@
     <loc>http://yoursite.com/2017/08/30/Sample-Blog-Post/</loc>
     
     <lastmod>2017-09-03T18:25:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/30/First-Blog-Post/</loc>
-    
-    <lastmod>2017-09-03T18:21:07.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/Blog/index.html</loc>
-    
-    <lastmod>2017-09-03T18:18:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/About-Us/index.html</loc>
-    
-    <lastmod>2017-09-02T22:58:10.000Z</lastmod>
     
   </url>
   
