@@ -77,20 +77,6 @@
   </entry>
   
   <entry>
-    <title>Shalays Blog post</title>
-    <link href="http://yoursite.com/2017/08/30/ShalaysBlog/"/>
-    <id>http://yoursite.com/2017/08/30/ShalaysBlog/</id>
-    <published>2017-08-30T23:10:46.000Z</published>
-    <updated>2017-09-04T14:56:01.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Sample Blog Post</title>
     <link href="http://yoursite.com/2017/08/30/Sample-Blog-Post/"/>
     <id>http://yoursite.com/2017/08/30/Sample-Blog-Post/</id>
@@ -102,6 +88,20 @@
     <summary type="html">
     
       &lt;html&gt;&lt;br&gt;&lt;head&gt;&lt;br&gt;    &lt;title&gt;Sample Blog Post&lt;/title&gt;&lt;br&gt;    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;styles.css&quot;&gt;&lt;br&gt;&lt;/head&gt;&lt;br&gt;&lt;body
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Shalays Blog post</title>
+    <link href="http://yoursite.com/2017/08/30/ShalaysBlog/"/>
+    <id>http://yoursite.com/2017/08/30/ShalaysBlog/</id>
+    <published>2017-08-30T23:10:46.000Z</published>
+    <updated>2017-09-04T14:56:01.000Z</updated>
+    
+    <summary type="html">
     
     </summary>
     
