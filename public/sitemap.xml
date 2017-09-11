@@ -2,58 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/Blog/index.html</loc>
-    
-    <lastmod>2017-09-07T03:09:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/Landing/index.html</loc>
-    
-    <lastmod>2017-09-07T01:14:07.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/About-Us/index.html</loc>
-    
-    <lastmod>2017-09-07T00:58:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2017/08/30/First-Blog-Post/</loc>
     
-    <lastmod>2017-09-06T23:38:16.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/30/ShalaysBlog/</loc>
-    
-    <lastmod>2017-09-04T14:56:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/30/Sample-Blog-Post/</loc>
-    
-    <lastmod>2017-09-03T18:25:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/30/hello-world/</loc>
-    
-    <lastmod>2017-09-01T02:10:31.000Z</lastmod>
+    <lastmod>2017-09-11T21:39:13.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2017/08/30/Another-Blog-Post/</loc>
     
-    <lastmod>2017-08-31T01:37:03.000Z</lastmod>
+    <lastmod>2017-09-11T21:34:28.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/30/hello-world/</loc>
+    
+    <lastmod>2017-09-11T21:34:22.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/30/Sample-Blog-Post/</loc>
+    
+    <lastmod>2017-09-11T21:34:19.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/30/ShalaysBlog/</loc>
+    
+    <lastmod>2017-09-11T21:34:17.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/Blog/index.html</loc>
+    
+    <lastmod>2017-09-08T02:32:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/About-Us/index.html</loc>
+    
+    <lastmod>2017-09-08T02:01:29.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/Landing/index.html</loc>
+    
+    <lastmod>2017-09-08T00:31:00.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/BlogInfo/index.html</loc>
+    
+    <lastmod>2017-09-07T23:46:29.000Z</lastmod>
     
   </url>
   

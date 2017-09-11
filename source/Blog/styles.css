@@ -1,3 +1,14 @@
 body{
 	background-color:white;
+	line-height:30px;
+}
+
+.bannerImage{
+	height:300px;
+	width:100%;
+	background-size: cover;
+}
+
+.whenItPlumeted{
+	background-color:pink;
 }

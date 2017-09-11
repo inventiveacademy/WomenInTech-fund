@@ -1,38 +1,15 @@
 ---
-title: Hello World
+title: Why we need more women in tech
+tags: 1
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+<html>
+    <head>
+        <title>Why we need more women in tech</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+        <img src="/../women-in-tech-pinup.jpg">
+        <h3>Hedy Lamarr</h3>
+        <p>Lamarr was a pin-up girl in the 1930's but in the 1940s she started helping George Anthiel with tech, She became a pioneer in wireless technologies, while working with george she developed a radio guidance system for torpedoes. This technology is now being used for Bluetooth, GPS, and Wi-Fi. She was given a special award in 1997 for "trail-blazing development of a technology that has become a key component of wireless data systems."</p>
+    </body>
+</html>
